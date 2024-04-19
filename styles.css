@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+#cabecalho{
+    height: 150px;
+    background-color: rgb(250, 255, 148);
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+#menu{
+    height: 500px;
+    width: 370px;
+    background-color: rgb(199, 243, 134);
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+#conteudo{
+    height: 500px;
+    width: 800px;
+    background-color:lightgrey ;
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+#lado{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(238, 127, 238);
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px; 
+    
+}
+#rodape{
+height: 160px;
+background-color:rgb(132, 217, 238) ; 
+clear: both;  
+width: 95%;
+margin: 0 auto;
+text-align: center;
+}
